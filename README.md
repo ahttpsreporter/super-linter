@@ -105,7 +105,7 @@ Developers on **GitHub** can call the **GitHub Action** to lint their codebase w
 | **Terraform**                    | [tflint](https://github.com/terraform-linters/tflint) / [terrascan](https://github.com/accurics/terrascan)                                                                    |
 | **Terragrunt**                   | [terragrunt](https://github.com/gruntwork-io/terragrunt)                                                                                                                      |
 | **TypeScript**                   | [ESLint](https://eslint.org/) / [standard js](https://standardjs.com/)                                                                                                        |
-| **XML**                          | [LibXML](http://xmlsoft.org/)                                                                                                                                                 |
+| **XML**                          | [LibXML](https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home)                                                                                                                                                 |
 | **YAML**                         | [YamlLint](https://github.com/adrienverge/yamllint)                                                                                                                           |
 
 ## How to use
